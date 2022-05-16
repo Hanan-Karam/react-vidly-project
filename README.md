@@ -1,1 +1,1 @@
-# react-vidly-project
+# React Vidly Project
